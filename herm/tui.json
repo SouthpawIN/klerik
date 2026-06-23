@@ -1,0 +1,6 @@
+{
+  "mouse": true,
+  "targetFps": 30,
+  "theme": "tokyonight",
+  "eikonPath": "/home/sovthpaw/.bun/install/global/node_modules/herm-tui/assets/eikons/mono.eikon"
+}

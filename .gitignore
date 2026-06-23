@@ -1,0 +1,68 @@
+# Runtime state
+state.db
+state.db-shm
+state.db-wal
+gateway.pid
+gateway.lock
+gateway_state.json
+gateway-shutdown-diag.log
+auth.lock
+.~lock.*
+discord_threads.json
+
+# Secrets
+.env
+auth.json
+
+# Logs
+logs/
+
+# Cache
+cache/
+audio_cache/
+image_cache/
+
+# Session data
+sessions/
+
+# Cron runtime
+cron/
+
+# Sandboxes
+sandboxes/
+
+# Hooks
+hooks/
+
+# Pairing
+pairing/
+
+# Skills internal state
+skills/.curator_state
+skills/.curator_backups/
+skills/.bundled_manifest
+.skills_prompt_snapshot.json
+
+# Plans (user-specific)
+plans/
+
+# Home (symlink target)
+home/
+
+# Platforms (channel runtime)
+platforms/
+
+# Gateway
+gateway/
+
+# Skins (user-specific)
+skins/
+
+# Workspace
+workspace/
+
+# Bin
+bin/
+
+# Hermes internals
+channel_directory.json
