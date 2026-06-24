@@ -1,0 +1,13 @@
+name: klerik
+version: 0.1.0
+description: "Meta-agent profile for reviewing and correcting other Hermes agent profiles using DSPy + GEPA"
+author: SouthpawIN
+license: MIT
+hermes_requires: ">=0.12.0"
+env_requires: []
+distribution_owned:
+  - SOUL.md
+  - AGENTS.md
+  - config.yaml
+  - skills/
+  - herm/

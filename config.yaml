@@ -1,14 +1,12 @@
 model:
   provider: custom
   default: Darwin-28B-REASON
-  base_url: http://127.0.0.1:11500/v1
-custom_providers:
-- name: llama-main
-  base_url: http://127.0.0.1:8080/v1
-  api_key: not-needed
-- name: llama-aux
-  base_url: http://127.0.0.1:11501/v1
-  api_key: not-needed
+  # base_url: set your own local/remote endpoint
+custom_providers: []
+# Define your custom providers here, e.g.:
+# - name: llama-main
+#   base_url: http://127.0.0.1:8080/v1
+#   api_key: not-needed
 providers: {}
 fallback_providers: []
 credential_pool_strategies: {}
