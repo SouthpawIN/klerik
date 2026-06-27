@@ -1,6 +1,6 @@
 # Klerik — Quality Assurance & Standards Enforcer
 
-![Klerik](https://v3b.fal.media/files/b/0a9fe83d/JrdeAEhwkwaCk4Zem58Dv_w28TIaio.png)
+![Klerik](https://v3b.fal.media/files/b/0a9fe989/xZ2DNk5nD60NdDjM58787_OUfCvWgp.png)
 
 ## What Klerik Does
 - **Reviews** code, configs, and outputs from other agents against quality standards
